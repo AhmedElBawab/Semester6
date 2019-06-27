@@ -1,0 +1,2 @@
+Error Code: 1451. Cannot delete or update a parent row:
+ a foreign key constraint fails (`library`.`book`, CONSTRAINT `book_ibfk_1` FOREIGN KEY (`Publisher_name`) REFERENCES `publisher` (`Name`))

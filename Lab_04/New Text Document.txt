@@ -1,0 +1,7 @@
+load data infile 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/book.txt' into table book; 
+load data infile 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/publisher.txt' into table publisher; 
+load data infile 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/book_authors.txt' into table book_authors; 
+load data infile 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/library_branch.txt' into table library_branch;
+load data infile 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/book_copies.txt' into table book_copies;
+load data infile 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/book_loans.txt' into table book_loans;
+load data infile 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/borrower.txt' into table borrower;

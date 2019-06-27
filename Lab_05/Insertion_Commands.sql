@@ -1,0 +1,24 @@
+Insert Into EMPLOYEE Values (1,'ahmed', '1990-09-01',5, 2000);    
+Insert Into EMPLOYEE Values (2,'ahmed', '1990-09-01',2, 2000); 
+Insert Into EMPLOYEE Values (3,'ahmed', '1990-09-01',3, 2000); 
+Insert Into EMPLOYEE Values (4,'ahmed', '1990-09-01',5, 2000); 
+Insert Into EMPLOYEE Values (5,'ahmed', '1990-09-01',5, 2000); 
+Insert Into EMPLOYEE Values (6,'ahmed', '1990-09-01',5, 2000);  
+Insert Into EMPLOYEE Values (7,'ahmed', '1990-09-01',5, 2000); 
+Insert Into EMPLOYEE Values (8,'ahmed', '1990-09-01',5, 2000);  
+Insert Into EMPLOYEE Values (9,'ahmed', '1990-09-01',5, 2000); 
+Insert Into EMPLOYEE Values (10,'ahmed', '1990-09-01',5, 2000);  
+Insert Into EMPLOYEE Values (11,'ahmed', '1990-09-01',5, 2000); 
+Insert Into EMPLOYEE Values (12,'ahmed', '1990-09-01',5, 2000);  
+Insert Into EMPLOYEE Values (13,'ahmed', '1990-09-01',5, 2000); 
+Insert Into EMPLOYEE Values (14,'ahmed', '1990-09-01',5, 2000);  
+Insert Into EMPLOYEE Values (15,'ahmed', '1990-09-01',2, 1000); 
+Insert Into EMPLOYEE Values (16,'ahmed', '1990-09-01',3, 1000); 
+Insert Into EMPLOYEE Values (17,'ahmed', '1990-09-01',15, 1000); 
+
+Insert Into DEPT Values (5,'java', '1990-09-01',1, 2000);   
+Insert Into DEPT Values (2,'php', '1990-09-01',2, 2000); 
+Insert Into DEPT Values (1,'mysql', '1990-09-01',3, 2000); 
+Insert Into DEPT Values (3,'node', '1990-09-01',4, 2000); 
+Insert Into DEPT Values (7,'html', '1900-09-01',4, 2000); 
+Insert Into DEPT Values (8,'css', '1960-09-01',4, 2000); 
